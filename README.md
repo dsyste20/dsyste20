@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsyste20
 - 👀 I’m interested in Cyber-Crime.
-- 🌱 I’m currently learning about Wordpress, PHP HTML, CSS, JAVASCRIPT, OOP, ASP NET MVC.
+- 🌱 I’m currently learning about JAVAFX.
 - 💞️ I’m looking to collaborate on making websites.
 - 📫 How to reach me: anakarinafiorina@hotmail.com
 
